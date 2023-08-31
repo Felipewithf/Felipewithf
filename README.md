@@ -5,4 +5,4 @@ Born in Colombia, raised in Canada, I am an Award winning designer, currently wo
 - 🔭 I’m currently working on as a Design & Experience Lead at Surgical Safety Techonolgies.
 - 🌱 I’m currently on route to become a full stack developer.
 - 👯 I’m looking to collaborate on anything related to blockchain, sports or inclusivity.
-- 💬 Ask me about design principles, soccer, human behaviour or small-platers-but-expensive restaurants in Toronto.
+- 💬 Ask me about design principles, soccer, human behaviour or restaurants in Toronto.
